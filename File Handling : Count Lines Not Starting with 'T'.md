@@ -20,6 +20,8 @@ count+=1
 print(count)      
 
 ## Output
+![image](https://github.com/user-attachments/assets/95148e99-b49d-4367-874f-e1487ce3ad60)
+
 
 ## Result
 Thus, the program has been successfully executed.
